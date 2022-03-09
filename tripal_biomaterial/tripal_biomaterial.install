@@ -289,7 +289,7 @@ function tripal_biomaterial_update_7301() {
  * Adds the NCBI biomaterial database and adds the terms to it.  Also moves
  * terms from the tripal vocabulary into local.
  */
-function tripal_biomaterial_update_7302() {
+function tripal_biomaterial_update_7303() {
   try {
 
     // Add additional cvterms.
